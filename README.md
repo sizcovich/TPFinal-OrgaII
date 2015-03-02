@@ -11,7 +11,7 @@ How to compile it:
 - Open the project with Qt again and compile it.
 - Enjoy :)
 
-For any further information please contact me: sizcovich@gmail.com
+For any further information please contact me: sizcovich@gmail.com sebastian_vita@yahoo.com.ar
 
 Para usarlo:
 - Tener instalado QtCreator
@@ -24,4 +24,4 @@ matriz_asm.o: ../TPFinal-OrgaII/codigo/matriz_asm.asm
 	nasm -f elf64 -g -F dwarf -o matriz_asm.o ../TPFinal-OrgaII/codigo/matriz_asm.asm
 - volver a abrir el proyecto con el Qt y compilarlo.
 
-Cualquier duda escribime a sizcovich@gmail.com
+Cualquier duda escribime a sizcovich@gmail.com sebastian_vita@yahoo.com.ar
